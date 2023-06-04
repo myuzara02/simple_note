@@ -1,8 +1,8 @@
 # Simple Note
 
 ### Nama  : Miftah Yuzar A
-## NPM   : 2006035
-## Kelas : Informatika B 
+### NPM   : 2006035
+### Kelas : Informatika B 
 
 ## Getting Started
 
