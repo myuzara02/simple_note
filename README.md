@@ -1,5 +1,9 @@
 # Simple Note
 
+## Nama  : Miftah Yuzar A
+## NPM   : 2006035
+## Kelas : Informatika B 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
